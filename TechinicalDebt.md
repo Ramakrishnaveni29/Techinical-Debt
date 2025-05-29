@@ -9,6 +9,7 @@ Example 2:
 
 Causes:
 Time Constraint
+
 Poor communication
 
 Symptoms:
