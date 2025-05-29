@@ -17,6 +17,11 @@ Symptoms:
 
 Frequent Bugs
 
+Impacts of Technical Debt:
+
+Maintenance Burden
+
+Defect Rate
 
     
 
